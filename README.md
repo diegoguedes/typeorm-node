@@ -1,5 +1,5 @@
 # TypeORM 0.3
-This project has as main objective to test the new type 0.3. It's a very simple project that doesn't have good practices like SOLID.
+This project has as main objective to test the new typeorm 0.3. It's a very simple project that doesn't have good practices like SOLID.
 
 If you would like to see a Node project using principles like SOLID, see this project: https://github.com/diegoguedes/nodejs-solid-principle
 
